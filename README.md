@@ -1,2 +1,1 @@
-# Castrillonn.github.io
-This is my personal website.
+Castrillonn.github.io
